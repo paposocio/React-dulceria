@@ -94,14 +94,14 @@ function CheckoutBody() {
                                             <th scope='row'>
                                                 <div className='d-flex align-items-center mt-2'>
                                                     <img
-                                                        src='img/vegetable-item-2.jpg'
+                                                        src='https://cdn1.totalcommerce.cloud/mercacentro/product-zoom/es/dulce-banana-extra-x-100-1.webp'
                                                         className='img-fluid rounded-circle'
                                                         style={{ width: 90, height: 90 }}
                                                         alt=''
                                                     />
                                                 </div>
                                             </th>
-                                            <td className='py-5'>Awesome Brocoli</td>
+                                            <td className='py-5'>Producto prueba</td>
                                             <td className='py-5'>$69.00</td>
                                             <td className='py-5'>2</td>
                                             <td className='py-5'>$138.00</td>
