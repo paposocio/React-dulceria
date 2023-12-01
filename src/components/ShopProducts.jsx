@@ -62,3 +62,4 @@ const ShopProducts = () => {
 }
 
 export default ShopProducts;
+
